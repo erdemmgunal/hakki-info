@@ -249,5 +249,3 @@ export default function Page() {
     </main>
   );
 }
-
-// /Users/erdemgunal/Desktop/erdem-cv/cv/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node
