@@ -152,6 +152,33 @@ export const RESUME_DATA = {
         label: "hakki info resume",
         href: "https://github.com/erdemmgunal/hakkierdem-resume",
       },
+    },
+    {
+      title: "Hakkınızla uçun",
+      techStack: ["Html", "CSS", "Javascript", "MongoDB"],
+      description:"Cheap flight ticket search engine. It lists round-trip flight tickets from Turkey and its surroundings to Europe in 2-3..7-day periods. You can filter parameters such as min-max price, departure cities, return cities and durations and see the cheapest tickets on a round-trip basis.",
+      link: {
+        label: "hakkinizla ucun",
+        href: "https://github.com/erdemmgunal/hakkinizlaucun",
+      },
+    },
+    {
+      title: "Biryere Scraper",
+      techStack: ["Python", "MongoDB"],
+      description:'Scraper from which information was obtained for the "According to Your Rights" project.',
+      link: {
+        label: "scraper",
+        href: "https://github.com/erdemmgunal/hakkinizlaucun",
+      },
+    },
+    {
+      title: "Konusanlar Monitor",
+      techStack: ["Python", "Sqlite3"],
+      description:'A program that provides notifications via Discord when a "Konusanlar" ticket is released on the mobilet.com.',
+      link: {
+        label: "konusanlar monitor",
+        href: "https://github.com/erdemmgunal/Konusanlar-Monitor",
+      },
     }
   ],
   languages: [
