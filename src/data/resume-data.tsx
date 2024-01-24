@@ -150,7 +150,7 @@ export const RESUME_DATA = {
       description:"Hakki.info is a personal resume website built using a technology stack that includes React, Next.js, Typescript, and CSS.",
       link: {
         label: "hakki info resume",
-        href: "https://github.com/erdemmgunal/hakkierdem-resume",
+        href: "https://github.com/erdemmgunal/hakki-info",
       },
     },
     {
