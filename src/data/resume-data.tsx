@@ -102,7 +102,7 @@ export const RESUME_DATA = {
       title: "Idata Scraper",
       techStack: ["Python"],
       description:
-        "It makes an appointment for you that is difficult to make through the site. (Education purposes only)",
+        "Notifies you when an appointment is opened or someone else cancels it. (Education purposes only)",
       link: {
         label: "idata scraper",
         href: "https://github.com/erdemmgunal/idata-scraper/",
