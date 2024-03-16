@@ -99,6 +99,20 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Hakkınızla Uçun",
+      techStack: [
+        "Next.js",
+        "Html",
+        "React",
+        "Mongodb",
+      ],
+      description: "This project is a web application that allows users to filter and list flight tickets based on various criteria. Users can find the flights they want with options such as duration, price range, departure and arrival cities. Developed using Next.js and React.",
+      link: {
+        label: "Hakkinizla Ucun",
+        href: "https://hakkinizlaucun.vercel.app/",
+      },
+    },
+    {
       title: "Idata Scraper",
       techStack: ["Python"],
       description:
