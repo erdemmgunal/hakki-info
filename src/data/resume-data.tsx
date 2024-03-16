@@ -113,6 +113,15 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Hakki info",
+      techStack: ["Typescript", "Javascript", "CSS"],
+      description:"Hakki.info is a personal resume website built using a technology stack that includes React, Next.js, Typescript, and CSS.",
+      link: {
+        label: "hakki info resume",
+        href: "https://github.com/erdemmgunal/hakki-info",
+      },
+    },
+    {
       title: "Idata Scraper",
       techStack: ["Python"],
       description:
@@ -156,24 +165,6 @@ export const RESUME_DATA = {
       link: {
         label: "bmw mercedes",
         href: "https://github.com/erdemmgunal/bmw-mercedes-monitor",
-      },
-    },
-    {
-      title: "Hakki info",
-      techStack: ["Typescript", "Javascript", "CSS"],
-      description:"Hakki.info is a personal resume website built using a technology stack that includes React, Next.js, Typescript, and CSS.",
-      link: {
-        label: "hakki info resume",
-        href: "https://github.com/erdemmgunal/hakki-info",
-      },
-    },
-    {
-      title: "Hakkınızla uçun",
-      techStack: ["Html", "CSS", "Javascript", "MongoDB"],
-      description:"Cheap flight ticket search engine. It lists round-trip flight tickets from Turkey and its surroundings to Europe in 2-3..7-day periods. You can filter parameters such as min-max price, departure cities, return cities and durations and see the cheapest tickets on a round-trip basis.",
-      link: {
-        label: "hakkinizla ucun",
-        href: "https://github.com/erdemmgunal/hakkinizlaucun",
       },
     },
     {
