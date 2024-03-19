@@ -193,7 +193,7 @@ export const RESUME_DATA = {
     },
     {
       name: "Turkish",
-      level: "Native or second language proficiency",
+      level: "Native language",
     }
   ]
 } as const;
